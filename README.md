@@ -1,3 +1,3 @@
 # pygame-minecraft-AI
-AI helped
+AI helped me to make a game
 
